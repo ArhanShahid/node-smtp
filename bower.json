@@ -1,0 +1,12 @@
+{
+  "name": "node-smtp",
+  "version": "0.0.0",
+  "authors": [
+    "Arhan Shahid <arhanshahid@gmail.com>"
+  ],
+  "description": "Node SMTP",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
